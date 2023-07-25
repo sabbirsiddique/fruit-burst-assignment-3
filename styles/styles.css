@@ -1,0 +1,4 @@
+.overlay {
+    background: linear-gradient(180deg, #121212 0%, rgba(18, 18, 18, 0.00) 100%);
+    background-blend-mode: overlay;
+}
